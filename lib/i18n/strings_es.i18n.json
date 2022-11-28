@@ -1,0 +1,39 @@
+{
+   
+    "imagePrivacity": "assets/Ref1/Privacidad.png",
+    "imageOurApplications": "assets/Ref1/+App.png",
+    "imagePlayCard": "assets/Ref1/boton jugar2.png",
+    "titleSliderModalExternal":"Si presionas el botón de ir a la app, te llevará a descargar la APP elegida a la",
+    "buttonSliderModalExternal":"assets/Ref3/Pop Up Slider Boton.png",
+
+
+    "titlePLay":"OLIVIA RODRIGUEZ",
+    "subtitlePLay":"¿eres su fan#1?",
+
+
+    "titleWallPaper":"OLIVIA RODRIGUEZ",
+    "subTitleWallPaper":"Fondos Únicos",
+    "imageWallPaper":"assets/Ref1/Boton Wallpaper.png",
+
+
+    "titleMyApp":"UNA APP SOBRE TÍ",
+    "subTitleMyApp":"¿Cuanto saben tus",
+    "subTitle2MyApp":"amigos sobre ti?",
+    "imageMyApp":"assets/Ref1/Boton Quiero.png",
+
+
+    "titleRandom":"JUGAR CON UN",
+    "subTitleRandom":"ARTISTA AL AZAR",
+    "imageRandom":"assets/Ref1/Boton Artistas Aleatorio.png",
+
+
+    "ourAppsTitle":"assets/Ref3/Todas Nuestras App.png",
+    "ourAppsSearchHint":"Buscar artista...",
+    "titleEmpity":"No tenemos el artista que buscas, puedes fijarte que este bien escrito, si esta bien escrito puedes enviarnos el nombre para que hagamos la app",
+    "ourAppsRecomendHint":"Recomendar artista..."
+
+
+
+
+
+  }

@@ -1,0 +1,40 @@
+{
+    "imagePrivacity": "assets/Ref1/Privacidad.png",
+    "imageOurApplications": "assets/Ref1/+App.png",
+    "imagePlayCard": "assets/Ref1/boton jugar2.png",
+    "titleSliderModalExternal":"If you press the button to go to the app, it will take you to download the chosen APP to the",
+    "buttonSliderModalExternal":"assets/Ref3/Pop Up Slider Boton.png",
+
+
+
+
+    "titlePLay":"OLIVIA RODRIGUEZ",
+    "subtitlePLay":"are you his #1 fan?",
+
+
+    "titleWallPaper":"OLIVIA RODRIGUEZ",
+    "subTitleWallPaper":"Unique Funds",
+    "imageWallPaper":"assets/Ref1/Boton Wallpaper.png",
+
+
+    "titleMyApp":"AN APP ABOUT YOU",
+    "subTitleMyApp":"how much do you know",
+    "subTitle2MyApp":"friends about you?",
+    "imageMyApp":"assets/Ref1/Boton Quiero.png",
+
+
+    "titleRandom":"PLAY WITH A",
+    "subTitleRandom":"RANDOM ARTIST",
+    "imageRandom":"assets/Ref1/Boton Artistas Aleatorio.png",
+    
+
+
+    "ourAppsTitle":"assets/Ref3/Todas Nuestras App.png",
+    "ourAppsSearchHint":"Search artist...",
+    "titleEmpity":"We do not have the artist you are looking for, you can check that it is well written, if it is well written you can send us the name so that we can make the app",
+    "ourAppsRecomendHint":"Recommend artist..."
+
+   
+
+
+  }
